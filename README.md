@@ -7,3 +7,8 @@ test - the instructions here aren't very helpful. Through both lectures, needed 
 
 * git remoate add FirstDummy https://github.com/pbradl42/FirstDummy.git
 * git push --set-upstream FirstDummy master
+
+## Commands in R that I needed to add to the lecture
+
+* setRepositories() (chose everything except the 'bio' ones) before 'install.packages("slidify")
+
